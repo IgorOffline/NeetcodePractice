@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: neetjava
+  main:
+    web-application-type: none
+  profiles:
+    active: dev
